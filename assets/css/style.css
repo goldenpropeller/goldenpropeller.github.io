@@ -262,6 +262,11 @@ img { max-width: 100%; }
 	
 }
 
+@media (max-width: 991px) {
+    .logo { text-align: center; width:100% }
+    .call-us { padding-bottom: 7px; text-align: center; ; width:100% }
+}
+
 @media (max-width: 767px) {
 
     .logo h1 { text-align: center; }
