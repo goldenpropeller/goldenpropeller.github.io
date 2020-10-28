@@ -215,7 +215,6 @@ img { max-width: 100%; }
 }
 
 .success-message, .error-message {
-	display: none;
 	margin-top: 20px;
     font-size: 18px;
     line-height: 22px;
